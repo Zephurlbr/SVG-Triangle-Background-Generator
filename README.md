@@ -1,6 +1,6 @@
-# Low-Poly Background Generator
+# Dark Triangle Background Generator
 
-A simple Node.js script that generates a dark, faceted low-poly mesh background as an SVG file.
+A simple Node.js script that generates a dark, faceted mesh background as an SVG file.
 
 ## Preview
 
