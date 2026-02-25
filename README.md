@@ -6,12 +6,6 @@ A simple script that generates a faceted mesh background as an SVG file.
 
 ![Preview](Preview/preview.png)
 
-## Features
-
-- Generates a 1920x1080 SVG with a dense triangle mesh
-- Dark gradient fading to black at the bottom
-- Faceted look with randomized color variations
-
 ## Usage
 
 ```bash
